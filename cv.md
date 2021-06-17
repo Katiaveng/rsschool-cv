@@ -35,3 +35,24 @@ August 2019 - present time
 Physical faculty of Belarusian State University\
 Minsk\
 August 2018 - June 2019
+
+### **Hard skills**
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Visual Studio Code
+* Adobe Illustrator
+
+### **Soft skills**
+* sociability
+* self-management
+* analytical skills
+* prioritazing
+* focus on results
+* presentation skills
+
+### **Languages**
+* English B2
+* Polish B1
